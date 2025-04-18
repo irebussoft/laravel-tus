@@ -1,5 +1,6 @@
 {
-    "name": "kalynasolutions/laravel-tus",
+    "name": "irebussoft/laravel-tus",
+    "version": "1.0.0",
     "description": "Laravel package for handling resumable file uploads with tus protocol and native Uppy.js support without additional tus servers",
     "keywords": [
         "kalynasolutions",
@@ -27,7 +28,6 @@
         "nunomaduro/collision": "^7.10|^8.1",
         "nunomaduro/larastan": "^2.9",
         "orchestra/testbench": "^8.22|^9.0",
-        "pestphp/pest": "^2.34",
         "pestphp/pest-plugin-arch": "^2.7",
         "pestphp/pest-plugin-laravel": "^2.3",
         "phpstan/extension-installer": "^1.3",
